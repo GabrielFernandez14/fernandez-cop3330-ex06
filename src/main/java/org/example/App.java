@@ -5,9 +5,9 @@
  */
 
 package org.example;
-import java.util.Scanner;
 
 // Import the necessary libraries
+import java.util.Scanner;
 import java.util.Calendar;
 import java.util.TimeZone;
 
